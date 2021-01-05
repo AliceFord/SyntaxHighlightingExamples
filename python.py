@@ -1,6 +1,9 @@
-if 
-elif
-else
+if:
+  pass
+elif:
+  pass
+else:
+  pass
 "String"
 12345
 . , ;
